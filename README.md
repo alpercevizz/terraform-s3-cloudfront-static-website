@@ -63,6 +63,10 @@ d1234example.cloudfront.net
 ```
 Open this in your browser to see your static website.
 
+## Demo
+
+![screenshot](/screenshot.png)
+
 ---
 
 ## 🔐 Security Considerations
