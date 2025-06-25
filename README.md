@@ -8,14 +8,13 @@ This project demonstrates how to host a static website on **Amazon S3** and serv
 
 ```bash
 terraform-static-site/
-├── aws/
-│   ├── main.tf
-│   ├── s3.tf
-│   ├── cloudfront.tf
-│   ├── variables.tf
-│   ├── outputs.tf
-│   ├── objects.tf
-│   └── index.html
+├── main.tf
+├── s3.tf
+├── cloudfront.tf
+├── variables.tf
+├── outputs.tf
+├── objects.tf
+└── index.html
 ├── README.md
 └── .gitignore
 ```
