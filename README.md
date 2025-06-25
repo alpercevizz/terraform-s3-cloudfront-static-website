@@ -36,7 +36,7 @@ terraform-static-site/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/alpercevizz/terraform-static-site.git
-cd terraform-static-site/aws
+cd terraform-static-site
 ```
 
 ### 2. Initialize Terraform
